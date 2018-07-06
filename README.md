@@ -1,3 +1,4 @@
 # hello-world
-Learning
-Somthing new
+Learn
+somthing
+new
